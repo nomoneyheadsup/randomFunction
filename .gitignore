@@ -1,0 +1,5 @@
+*.dia~
+*.pyc
+*.pyo
+*.wpu
+__pycache__/

@@ -1,0 +1,13 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('control.py'),
+                  loc('modWeighted.py'),
+                  loc('output'),
+                  loc('output.py'),
+                  loc('randomFunc.py'),
+                  loc('variables.py')]
+proj.file-type = 'shared'
